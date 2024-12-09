@@ -1,4 +1,11 @@
-### Hi I am Vamika Sheel 👋
+### I am Vamika Sheel 👋
+
+"Code by day, jokes by night, fueled by coffee and a dash of humor!"
+
+"Tech enthusiast with a degree and a passion for coding. Skilled in **React JS**, the **MERN stack**, and a variety of technologies like **Java**, **JavaScript**, **HTML**, **CSS**, **Tailwind**, **SQL**, **MongoDB**, **Node.js**, **Express.js**, and **Three.js**. 
+
+Currently exploring **Blockchain** and **Cloud Computing** to stay ahead of the curve. Always eager to learn and build impactful solutions!"
+
 
 <div align="center"> 
   <p>Visitor count</p>
