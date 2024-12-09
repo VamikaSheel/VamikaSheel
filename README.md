@@ -1,3 +1,5 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif">
+
 ### I am Vamika Sheel 👋
 
 Code by day, jokes by night, fueled by coffee and a dash of humor!
