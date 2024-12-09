@@ -1,16 +1,13 @@
 ### I am Vamika Sheel 👋
 
-"Code by day, jokes by night, fueled by coffee and a dash of humor!"
+Code by day, jokes by night, fueled by coffee and a dash of humor!
 
-"Tech enthusiast with a degree and a passion for coding. Skilled in **React JS**, the **MERN stack**, and a variety of technologies like **Java**, **JavaScript**, **HTML**, **CSS**, **Tailwind**, **SQL**, **MongoDB**, **Node.js**, **Express.js**, and **Three.js**. 
+Tech enthusiast with a degree and a passion for coding. Skilled in **React JS**, the **MERN stack**, and a variety of technologies like **Java**, **JavaScript**, **HTML**, **CSS**, **Tailwind**, **SQL**, **MongoDB**, **Node.js**, **Express.js**, and **Three.js**. 
 
 Currently exploring **Blockchain** and **Cloud Computing** to stay ahead of the curve. Always eager to learn and build impactful solutions!"
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
+
 
 ## 🛠️ Languages and Tools
 
@@ -29,6 +26,11 @@ Currently exploring **Blockchain** and **Cloud Computing** to stay ahead of the 
 <a href="https://www.linkedin.com/in/vamika-sheel-9a3376171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vamika__10/profilecard/?igsh=MWcxMHN1aW1tdnNoaA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 ## 🐍 My Contributions
 
